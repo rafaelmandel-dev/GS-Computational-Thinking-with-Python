@@ -64,7 +64,7 @@ O software analisa os dados fornecidos e determina a melhor fonte de energia par
 
 2. **Clonar o Repositório:**
 
-git clone <[URL do repositório](https://github.com/rafaelmandel-dev/GS-Computational-Thinking-with-Python)>
+    git clone https://github.com/rafaelmandel-dev/GS-Computational-Thinking-with-Python
 
 3. **Executar o Código:**
 
@@ -72,7 +72,7 @@ git clone <[URL do repositório](https://github.com/rafaelmandel-dev/GS-Computat
 
 - Execute o seguinte comando:
 
-``python GS.py``
+    python GS.py
 
 4. **Insira os Dados:**
 
