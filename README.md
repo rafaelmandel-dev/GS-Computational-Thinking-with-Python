@@ -10,7 +10,7 @@ O Guardian busca maximizar a eficiência energética, promovendo o uso de fontes
 
 - Rafael Mandel, 560333
 
-- Luigi Thinego, 560755
+- Luigi Thiengo, 560755
 
 - Felipe Silva, 559848
 
